@@ -1,3 +1,3 @@
 # leetcode
 
-Contains leetode coding questions with their solutions.
+Contains leetcode coding questions with their solutions.
