@@ -16,7 +16,7 @@
 
 3. **Two pointer approach**:
    - Sort the array and use two pointer iterating the array, one from start and other from end.
-   - Calculate the sum and if it's less than target then increament the start pointer and if it's less than target the decrease the end pointer.
+   - Calculate the sum and if it's less than target then increament the start pointer and if it's greater than target then decrease the end pointer.
    - Iterate this until you find the sum equals to the target.
    - This approach is optimal when you only have to check whether two such elements exist or not. But if you have to return the index of those elements then it's not the optimal approach.
 
